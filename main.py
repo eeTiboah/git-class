@@ -7,4 +7,5 @@ favorite_food = input("What is your favorite food?: ")
 age = 2024 - year
 
 print(f"Your name is {name} and you are {year} years old. Your favorite food is {favorite_food}")
+print(f"{name}, you have successfully run the script.")
 
